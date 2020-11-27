@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\ActorsRazorPages.csproj",
+  "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\ActorsRazorPages.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -1818,67 +1818,67 @@
   "RootNamespace": "ActorsRazorPages",
   "Documents": [
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\About.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\About.cshtml",
       "TargetPath": "Pages\\About.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Shared\\_CookieConsentPartial.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\TestPage.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\TestPage.cshtml",
       "TargetPath": "Pages\\TestPage.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Actors\\Index.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Actors\\Index.cshtml",
       "TargetPath": "Pages\\Actors\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Actors\\Details.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Actors\\Details.cshtml",
       "TargetPath": "Pages\\Actors\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Contact.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Contact.cshtml",
       "TargetPath": "Pages\\Contact.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Curso\\20486\\luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Curso\\20486\\Luismi\\labfiles\\mod01\\Labfiles\\01_ActorsRazorPages_begin\\ActorsRazorPages\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }
